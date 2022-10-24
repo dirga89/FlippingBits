@@ -1,0 +1,15 @@
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\bin\Debug\net6.0\FlippingBits.exe
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\bin\Debug\net6.0\FlippingBits.deps.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\bin\Debug\net6.0\FlippingBits.runtimeconfig.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\bin\Debug\net6.0\FlippingBits.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\bin\Debug\net6.0\FlippingBits.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.csproj.AssemblyReference.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.AssemblyInfoInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.AssemblyInfo.cs
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.csproj.CoreCompileInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\refint\FlippingBits.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\FlippingBits.genruntimeconfig.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\FlippingBits\obj\Debug\net6.0\ref\FlippingBits.dll
